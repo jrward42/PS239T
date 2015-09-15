@@ -204,7 +204,7 @@ sub-directories
 :   FIXME
 
 tab completion
-:   FIXME
+:   Pressing the tab button when typing a file path with auto-complete. This will only work if there is only one possible auto-completetion for what you have began to type. 
 
 uniq
 :   The command uniq removes (ONLY!) adjacent duplicated lines from its input.
